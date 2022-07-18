@@ -1,0 +1,39 @@
+.table-guide {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 10px;
+}
+
+.table-guide-row {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  height: 30px;
+  width: 900px;
+  background-color: #415a777a;
+  border-radius: 10px;
+  padding: 0 15px;
+  color: #e0e1ddc9;
+  font-weight: 700;
+}
+
+.table-guide-coin {
+  margin-left: 40px;
+}
+
+.table-guide-price {
+  margin-left: 290px;
+}
+
+.table-guide-24hvolume {
+  margin-left: 100px;
+}
+
+.table-guide-24h {
+  margin-left: 70px;
+}
+
+.table-guide-mkt-cap {
+  margin-left: 90px;
+}
